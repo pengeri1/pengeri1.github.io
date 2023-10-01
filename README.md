@@ -4,3 +4,7 @@ This repo a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
 
 ## Activity 1
 ![Activity 1](/screenshots/Lab2Activity1.png)
+
+## Activity 2
+![Activity 2](/screenshots/Lab2Activity2.1.png)
+![Activity 2](/screenshots/Lab2Activity2.2.png)
