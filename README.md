@@ -14,3 +14,7 @@ Deployed to https://pengeri1.github.io/
 ## Activity 3
 ![Activity 3](/screenshots/Lab2Activity3.1.png)
 ![Activity 3](/screenshots/Lab2Activity3.2.png)
+
+## Activity 4
+![Activity 4](/screenshots/Lab2Activity4.1.png)
+![Activity 4](/screenshots/Lab2Activity4.2.png)
